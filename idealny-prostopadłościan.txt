@@ -1,0 +1,36 @@
+﻿Dlaczego √ (a² + b² + c²) ≠ d, dla a, b, c, d ∈ ℤ.
+
+1. Boki każdego prostego trójkąta prostokątnego, a więc
+prymitywne trójki pitagorejskie (pPT) zawsze składają się z
+jednego Strona z nieparzystą, strona z parzystą i
+Przeciwprostokątna o dziwnej długości.
+
+2. Każdy trójkąt prostokątny, czyli każdy ogólny pitagorejczyk
+Triple (PT) jest dokładnie jednokrotnie iloczynem pPT i
+czynnik dla ∈ ℤ.
+
+Załóżmy, że istnieje najmniejszy idealny prostopadłościan.
+
+Z powodu przemienności wierzchołków w pierwiastku kwadratowym
+po lewej
+
+         √ (a² + b² + c²) = d
+
+są następujące równania
+
+        √ (√ (a² + b²) + c²) = d
+        √ (√ (a² + c²) + b²) = d
+        √ (√ (b² + c²) + a²) = d
+
+równoważny.
+
+Wynikiem każdego wewnętrznego pierwiastka kwadratowego byłaby długość
+Hypotenuse of a PT, a tym samym wielokrotność liczby nieparzystej.
+Stąd c, b i a w trzech równaniach musiałyby być wielokrotnościami
+liczb parzystych, aby spełnić warunek dla PT.
+
+Oznacza to, że każda krawędź prostopadłościanu jest wielokrotnością a
+jest liczbą nieparzystą i parzystą, co z kolei oznacza, że każde rozwiązanie
+dla najmniejszego idealnego prostopadłościanu jest podzielne przez 2.
+
+Reductio ad absurdum

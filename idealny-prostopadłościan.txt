@@ -9,7 +9,7 @@ Przeciwprostokątna o dziwnej długości.
 Triple (PT) jest dokładnie jednokrotnie iloczynem pPT i
 czynnik dla ∈ ℤ.
 
-Załóżmy, że istnieje najmniejszy idealny prostopadłościan.
+Załóżmy, że istnieje najmniejszy idealny prostopadłościan. [1]
 
 Z powodu przemienności wierzchołków w pierwiastku kwadratowym
 po lewej
@@ -34,3 +34,5 @@ jest liczbą nieparzystą i parzystą, co z kolei oznacza, że każde rozwiązan
 dla najmniejszego idealnego prostopadłościanu jest podzielne przez 2.
 
 Reductio ad absurdum
+
+[1] http://unsolvedproblems.org/index_files/PerfectCuboid.htm

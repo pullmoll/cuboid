@@ -9,7 +9,7 @@ Hypotenuse mit ungerader Länge.
 Tripel (PT), ist auf genau eine Weise das Produkt eines pPT und
 eines Faktors f ∈ ℤ.
 
-Nehmen wir an es gebe einen kleinsten perfkten Cuboid.
+Nehmen wir an es gebe einen kleinsten perfkten Cuboid. [1]
 
 Wegen der Kommutativität der Summanden innerhalb der Quadratwurzel
 auf der linken Seite von
@@ -34,3 +34,5 @@ ungeraden und einer geraden Zahl ist, was wiederum bedeutet, dass
 jede Lösung für einen kleinsten perfekten Cuboid durch 2 teilbar ist.
 
 Reductio ad absurdum.
+
+http://unsolvedproblems.org/index_files/PerfectCuboid.htm

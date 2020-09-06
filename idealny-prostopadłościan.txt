@@ -1,11 +1,11 @@
 ﻿Dlaczego √ (a² + b² + c²) ≠ d, dla a, b, c, d ∈ ℤ.
 
 1. Boki każdego prostego trójkąta prostokątnego, a więc
-prymitywne trójki pitagorejskie (pPT) zawsze składają się z
+prymitywne Pitagorejskie Triple (pPT) zawsze składają się z
 jednego Strona z nieparzystą, strona z parzystą i
 Przeciwprostokątna o dziwnej długości.
 
-2. Każdy trójkąt prostokątny, czyli każdy ogólny pitagorejczyk
+2. Każdy trójkąt prostokątny, czyli każdy ogólny Pitagorejczyk
 Triple (PT) jest dokładnie jednokrotnie iloczynem pPT i
 czynnik dla ∈ ℤ.
 

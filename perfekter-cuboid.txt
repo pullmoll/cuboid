@@ -1,13 +1,13 @@
 ﻿Warum √(a² + b² + c²) ≠ d ist, für a, b, c, d ∈ ℤ.
 
-1. Die Seiten jedes primitiven rechtwinkligen Dreiecks, also die
-primitiven Pythagoräischen Tripel (pPT), bestehen immer aus einer
-Kathete mit ungerader, einer Kathete mit gerader, und der
-Hypotenuse mit ungerader Länge.
+1. Die Seiten jedes primitiven ganzzahligen rechtwinkligen Dreiecks,
+also die primitiven Pythagoräischen Tripel (pPT), bestehen immer
+aus einer Kathete mit ungerader, einer Kathete mit gerader und
+der Hypotenuse mit ungerader Länge.
 
-2. Jedes rechtwinklige Dreieck, also jedes generelle Pythagoräische
-Tripel (PT), ist auf genau eine Weise das Produkt eines pPT und
-eines Faktors f ∈ ℤ.
+2. Jedes ganzzahlige rechtwinklige Dreieck, also jedes generelle
+Pythagoräische Tripel (PT), ist auf genau eine Weise das Produkt
+eines pPT und eines Faktors f ∈ ℤ.
 
 Nehmen wir an es gebe einen kleinsten perfkten Cuboid. [1]
 

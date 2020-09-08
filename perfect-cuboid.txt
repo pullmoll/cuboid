@@ -1,12 +1,12 @@
 ﻿Why √(a² + b² + c²) ≠ d, where a, b, c, d ∈ ℤ.
 
-1. The sides of a primitive rectangular triangle, i.e. the primitive
-Pythagorean Triples (pPT), always consist of one odd length cathetus,
-one even length cathetus, and the odd length hypotenuse.
+1. The sides of a primitive rectangular integer triangle, i.e. the
+primitive Pythagorean Triples (pPT), always consist of one odd length
+cathetus, one even length cathetus, and the odd length hypotenuse.
 
-2. Every general rectangular triangle, i.e. every general Pythagorean
-Triple (PT), is in exactly one way the multiple of a pPT and a
-factor f ∈ ℤ.
+2. Every general rectangular integer triangle, i.e. every general
+Pythagorean Triple (PT), is in exactly one way the multiple of a pPT
+and a factor f ∈ ℤ.
 
 Assume there is a smallest solution for a perfect cuboid. [1]
 

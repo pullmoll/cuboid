@@ -29,10 +29,10 @@ Hypotenuse eines PT und somit dem Vielfachen einer ungeraden Zahl.
 Folglich müssten c, b und a in den drei Gleichungen allesamt Vielfache
 von gerade Zahlen sein, um die Bedingung für PT zu erfüllen.
 
-Dies bedeutet, dass jede Kante des Cuboids ein Vielfaches einer
-ungeraden und einer geraden Zahl ist, was wiederum bedeutet, dass
-jede Lösung für einen kleinsten perfekten Cuboid durch 2 teilbar ist.
+Dies bedeutet, dass jede Kante des Cuboids ein Vielfaches sowohl einer
+ungeraden, als auch einer geraden Zahl ist, was wiederum bedeutet, dass
+jede Lösung für einen kleinsten perfekten Cuboid durch 2 teilbar wäre.
 
 Reductio ad absurdum.
 
-http://unsolvedproblems.org/index_files/PerfectCuboid.htm
+[1] http://unsolvedproblems.org/index_files/PerfectCuboid.htm

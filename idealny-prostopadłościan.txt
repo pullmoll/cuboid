@@ -1,13 +1,13 @@
 ﻿Dlaczego √ (a² + b² + c²) ≠ d, dla a, b, c, d ∈ ℤ.
 
-1. Boki każdego prostego trójkąta prostokątnego, a więc
-prymitywne Pitagorejskie Triple (pPT) zawsze składają się z
-jednego Strona z nieparzystą, strona z parzystą i
-Przeciwprostokątna o dziwnej długości.
+1. Boki prymitywnego prostokątnego trójkąta całkowitoliczbowego,
+tj. Prymitywnej trójki pitagorejskiej (pPT), zawsze składają się
+z jednego nieparzystego katetusa, jednego o parzystej długości
+i przeciwprostokątnej nieparzystej długości.
 
-2. Każdy trójkąt prostokątny, czyli każdy ogólny Pitagorejczyk
-Triple (PT) jest dokładnie jednokrotnie iloczynem pPT i
-czynnik dla ∈ ℤ.
+2. Każdy ogólny prostokątny trójkąt całkowity, czyli każdy ogólny
+ trójkącik pitagorejski (PT), jest dokładnie jednokierunkową
+wielokrotnością pPT i współczynnika f ∈ ℤ.
 
 Załóżmy, że istnieje najmniejszy idealny prostopadłościan. [1]
 
@@ -29,9 +29,10 @@ Hypotenuse of a PT, a tym samym wielokrotność liczby nieparzystej.
 Stąd c, b i a w trzech równaniach musiałyby być wielokrotnościami
 liczb parzystych, aby spełnić warunek dla PT.
 
-Oznacza to, że każda krawędź prostopadłościanu jest wielokrotnością a
-jest liczbą nieparzystą i parzystą, co z kolei oznacza, że każde rozwiązanie
-dla najmniejszego idealnego prostopadłościanu jest podzielne przez 2.
+Oznacza to, że każda krawędź prostopadłościanu jest wielokrotnością
+liczby nieparzystej i parzystej, co z kolei oznacza, że każde
+rozwiązanie dla najmniejszego prostopadłościanu idealnego byłoby
+podzielne przez 2.
 
 Reductio ad absurdum
 
